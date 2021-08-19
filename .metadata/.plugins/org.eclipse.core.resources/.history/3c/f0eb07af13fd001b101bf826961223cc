@@ -1,0 +1,59 @@
+package EmployeePackage;
+
+
+class Employee {
+
+	
+	
+	int age;
+    String firstname;
+	String lastname;
+	
+    void printAge() {
+
+		
+		System.out.println(age);
+   }
+	
+   public void printFN() {
+		
+		System.out.println(firstname);
+	}
+	
+   public void printLN() {
+	
+	System.out.println(lastname);
+   }
+
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		Employee emp1 = new Employee();
+		
+		emp1.age = 40;
+		emp1.firstname = "Abebe";
+		emp1.lastname = "Kebede";
+		
+		emp1.printAge();
+		emp1.printFN();
+		
+		
+		Employee emp2 = new Employee();
+		emp2.age = 23;
+		emp2.firstname = "Chala";
+		emp2.lastname = "Tolosa";
+		emp2.printAge();
+		emp2.printLN();
+		
+	
+		
+		
+		
+		
+
+	}
+
+}

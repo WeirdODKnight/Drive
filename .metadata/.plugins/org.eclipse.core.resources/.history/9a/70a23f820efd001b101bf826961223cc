@@ -1,0 +1,22 @@
+package CustomerPackage;
+
+import java.util.Scanner;
+
+import EmployeePackage.*;
+
+
+
+public class Customer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Employee b = new Employee();
+		
+		Admin ad = new Admin();
+		
+			
+		
+	}
+
+}

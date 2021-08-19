@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="EmployeePackage.Employee"/>
+    <fullyQualifiedTypeName name="EmployeePackage.Admin"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="encapsulations.Manager"/>
+    <fullyQualifiedTypeName name="CustomerPackage.Customer"/>
+</qualifiedTypeNameHistroy>

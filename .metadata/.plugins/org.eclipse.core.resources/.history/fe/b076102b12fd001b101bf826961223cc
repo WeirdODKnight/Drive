@@ -1,0 +1,17 @@
+package EmployeePackage;
+
+import encapsulations.Manager;
+
+public class Admin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      Manager m1 = new Manager();
+      m1.setAge(23);
+      m1.setSalary(2000);
+      
+      System.out.println(m1.getSalary());
+	
+	}
+
+}

@@ -1,0 +1,36 @@
+package EmployeePackage;
+
+import CustomerPackage.Customer;
+
+public class Employee{
+
+	
+
+	
+	public void addition(int a, int b) {
+	   System.out.println(a+b);
+		
+	}
+	
+	public double multiply() {
+		double a = 100;
+		double b = 1000;
+		return a*b;
+	}
+	
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Employee emp1 = new Employee();
+		System.out.println(emp1.multiply());
+	
+
+		
+		
+
+	}
+
+}
